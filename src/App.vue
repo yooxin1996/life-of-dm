@@ -61,17 +61,18 @@ body{
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #fff;
-  margin-top: 60px;
+  margin-top: 0.6rem;
 }
 .swiper-container {
-  width: 600px;
-  height: 450px;
+  width: 3.75rem;
+  height: 3rem;
 }
 img{
   width: 100%;
   height: 100%
 }
 h1{
-  text-align: center
+  text-align: center;
+  font-size: 0.2rem
 }
 </style>
